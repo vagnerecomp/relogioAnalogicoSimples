@@ -1,2 +1,2 @@
-# relogioAnalogicoSimples
-Relógio analógico simples com JavaScript, HTML e CSS.
+# Relogio Analógico Simples
+Relógio analógico simples implementado em JavaScript, HTML e CSS.
